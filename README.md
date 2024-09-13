@@ -13,3 +13,13 @@ BSKY_IDENTIFIER is the email of you bluesky account
 BSKY_PASSWORD is the password of your bluesky account
 
 BSKY_USERNAME is the username (without the @) that when tagged will call the function to post
+
+Then install all dependencies
+```bash
+npm install
+```
+
+and run
+```bash
+npm run dev
+```
