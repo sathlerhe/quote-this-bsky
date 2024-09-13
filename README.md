@@ -2,7 +2,7 @@
 
 A bot for bluesky that will turn the post in a quote.
 
-<img src="./assets/readme_print.png" />
+<img src="./readme_print.png" />
 
 ## How to use it
 
