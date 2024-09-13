@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "dev": "npx ts-node index.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^22.5.4",
+    "typescript": "^5.6.2"
+  },
+  "dependencies": {
+    "@atproto/api": "^0.13.7",
+    "atproto-firehose": "^0.2.2",
+    "dotenv": "^16.4.5",
+    "node-html-to-image": "^5.0.0"
+  }
+}
